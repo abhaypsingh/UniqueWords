@@ -1,2 +1,2 @@
 # UniqueWords
-Gind unique words in a text agaist a dictionary.
+Find unique words in a text agaist a dictionary.
